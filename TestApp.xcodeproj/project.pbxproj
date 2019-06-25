@@ -13,6 +13,7 @@
 		D7E00DC022BFE71E0085F14A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7E00DBF22BFE71E0085F14A /* Assets.xcassets */; };
 		D7E00DC322BFE71E0085F14A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7E00DC122BFE71E0085F14A /* LaunchScreen.storyboard */; };
 		D7E00DCE22BFE71E0085F14A /* TestAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7E00DCD22BFE71E0085F14A /* TestAppTests.swift */; };
+		D7E00DD922BFE9D50085F14A /* ModifyMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = D7E00DD822BFE9D50085F14A /* ModifyMe.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D7E00DC922BFE71E0085F14A /* TestAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7E00DCD22BFE71E0085F14A /* TestAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestAppTests.swift; sourceTree = "<group>"; };
 		D7E00DCF22BFE71E0085F14A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D7E00DD822BFE9D50085F14A /* ModifyMe.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ModifyMe.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				D7E00DBF22BFE71E0085F14A /* Assets.xcassets */,
 				D7E00DC122BFE71E0085F14A /* LaunchScreen.storyboard */,
 				D7E00DC422BFE71E0085F14A /* Info.plist */,
+				D7E00DD822BFE9D50085F14A /* ModifyMe.txt */,
 			);
 			path = TestApp;
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7E00DD922BFE9D50085F14A /* ModifyMe.txt in Resources */,
 				D7E00DC322BFE71E0085F14A /* LaunchScreen.storyboard in Resources */,
 				D7E00DC022BFE71E0085F14A /* Assets.xcassets in Resources */,
 				D7E00DBE22BFE71E0085F14A /* Main.storyboard in Resources */,
