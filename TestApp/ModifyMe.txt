@@ -1,1 +1,3 @@
+New first line!
 File to be modified!
+ADDED BY BOB
